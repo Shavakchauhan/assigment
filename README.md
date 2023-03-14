@@ -1,5 +1,4 @@
 # assigment
-text_assigment
 
 Structure of files
 
